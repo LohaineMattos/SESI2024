@@ -1,4 +1,4 @@
-# CURSO SENAI 
+# SITE - CURSO SENAI 
 ## 11/03/2024 - Sistemas Operacionais
 ### Aula onde estamos aprendendo Github
 #### Edição de textos com Markdown
