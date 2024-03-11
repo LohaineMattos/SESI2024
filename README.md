@@ -4,7 +4,7 @@
 #### Edição de textos com Markdown
 
 # Tecnologias
-<img src= "https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" style="width:130px"> 
+<img src= "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" style="width:130px"> 
 GitHub <br>
 <img src= "https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" style="width:128px"> 
 VsCODE <br>
